@@ -21,6 +21,7 @@ Nombre de boites apres destruction de b3: 2
 
 ```
 
+<img width="869" height="171" alt="image" src="https://github.com/user-attachments/assets/c88bc707-5877-4e15-9548-a7f7c700f133" />
 
 
 ## Exercice 2 : Taux de TVA partagé
@@ -48,6 +49,9 @@ Cahier : Prix TTC = 5.5 euros
 Sac : Prix TTC = 33 euros
 
 ```
+<img width="781" height="311" alt="image" src="https://github.com/user-attachments/assets/9fc507c3-2a3c-48ef-94ca-48d315011993" />
+
+
 
 ## Exercice 3 : Gestion des sessions utilisateurs
 
@@ -63,7 +67,7 @@ Gérer le nombre d’utilisateurs connectés dans un système grâce à un attri
 **Exemple de sortie :**  
 
 ```
-Nombre d'utilisateurs connectés : 0
+Au démarrage : Nombre d'utilisateurs connectés : 0
 Alice (admin) s'est connecté.
 Nombre d'utilisateurs connectés : 1
 Bob (visiteur) s'est connecté.
@@ -72,9 +76,14 @@ Charlie (visiteur) s'est connecté.
 Nombre d'utilisateurs connectés : 3
 Charlie (visiteur) s'est déconnecté.
 Nombre d'utilisateurs connectés : 2
+Bob (visiteur) s'est déconnecté.
+Nombre d'utilisateurs connectés : 1
+Alice (admin) s'est déconnecté.
+Nombre d'utilisateurs connectés : 0
 
 ```
 
+<img width="841" height="433" alt="image" src="https://github.com/user-attachments/assets/d340bc22-4702-420e-aca2-5e9c8b601951" />
 
 
 
