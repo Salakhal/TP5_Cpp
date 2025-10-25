@@ -21,6 +21,10 @@ Nombre de boites apres destruction de b3: 2
 
 ```
 
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
+
 <img width="869" height="171" alt="image" src="https://github.com/user-attachments/assets/c88bc707-5877-4e15-9548-a7f7c700f133" />
 
 
@@ -49,6 +53,10 @@ Cahier : Prix TTC = 5.5 euros
 Sac : Prix TTC = 33 euros
 
 ```
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
+
 <img width="781" height="311" alt="image" src="https://github.com/user-attachments/assets/9fc507c3-2a3c-48ef-94ca-48d315011993" />
 
 
@@ -82,6 +90,9 @@ Alice (admin) s'est déconnecté.
 Nombre d'utilisateurs connectés : 0
 
 ```
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
 
 <img width="841" height="433" alt="image" src="https://github.com/user-attachments/assets/d340bc22-4702-420e-aca2-5e9c8b601951" />
 
